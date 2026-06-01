@@ -1,6 +1,6 @@
-import React from 'react';
-import HomeScreen from './screens/HomeScreen';
-
-export default function App() {
-  return <HomeScreen />;
+{
+  "dependencies": {
+    "react-native-paper": "4.9.2",
+    "@expo/vector-icons": "^15.0.3"
+  }
 }
